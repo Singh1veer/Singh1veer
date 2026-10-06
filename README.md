@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/banner.svg?v=5" alt="Harshveer Singh - Full-stack developer and DSA enthusiast, Computer Engineering at Thapar Institute" width="100%">
+<img src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/banner.svg?v=7" alt="Harshveer Singh - Full-stack developer exploring machine learning, Computer Engineering at Thapar Institute" width="100%">
 
 <a href="https://github.com/Singh1veer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;Dijkstra+on+a+map%2C+React+on+the+screen;450%2B+problems+across+LeetCode+and+GFG;Open+to+internships+and+collaborations" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;React+on+the+screen%2C+Python+behind+the+model;Exploring+machine+learning+through+real+projects;Open+to+internships+and+collaborations" alt="Typing animation">
 </a>
 
 <br>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshveersingh212@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NIKOLA_20051)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singh1veer)
 ![Profile views](https://komarev.com/ghpvc/?username=Singh1veer&style=for-the-badge&color=5eead4&label=PROFILE+VIEWS)
 
@@ -32,6 +31,8 @@ Students browse ratings and comments and submit ratings with zero friction: no s
 
 `React` `Express` `PostgreSQL` `Supabase` `Vercel`
 
+<!-- TODO: add [Live site](...) · [Code](...) here -->
+
 </td>
 <td width="50%" valign="top">
 
@@ -41,6 +42,8 @@ Multi-criteria route comparison, built with a team of 3.
 **Dijkstra's algorithm**, `O((V+E) log V)`, for near real-time shortest-path queries. Designed so new city nodes plug in without rewrites.
 
 `Node.js` `Express` `Bootstrap` `JavaScript`
+
+<!-- TODO: add [Code](...) here -->
 
 </td>
 </tr>
@@ -71,6 +74,21 @@ Multi-criteria route comparison, built with a team of 3.
 - Responsive Bootstrap UI on a Node.js/Express backend.
 
 </details>
+
+---
+
+## 🤖 Machine learning
+
+<!--
+TODO: add your ML projects here once they are ready. Template:
+
+### Project name
+One line on the problem and the result (a real metric, e.g. accuracy / F1 / RMSE).
+`Python` `scikit-learn` `Pandas` ...
+[Code](link) · [Demo](link)
+-->
+
+Currently building ML projects on top of my full-stack work. Coming soon.
 
 ---
 
@@ -111,11 +129,10 @@ Multi-criteria route comparison, built with a team of 3.
 
 <br>
 
-- **Thapar Institute of Engineering and Technology**, B.Tech in Computer Engineering, CGPA 8.62 (2024 to 2028)
+- **Thapar Institute of Engineering and Technology**, B.Tech in Computer Engineering (2024 to 2028)
 - Full-Stack Web Development Bootcamp (Udemy)
 - HackerRank: Frontend Development (React)
 - HackerRank: Problem Solving
-- JEE Main 2024: 95 percentile
 
 </details>
 
@@ -123,9 +140,9 @@ Multi-criteria route comparison, built with a team of 3.
 
 <div align="center">
 
-💬 **Ask me about:** full-stack development, graph algorithms, DSA prep
+💬 **Ask me about:** full-stack development, machine learning, building products students use
 🤝 **Open to:** internships, collaborations and interesting projects
 
-<sub>Banner animation: Dijkstra finds the shortest path from A to G (A → B → E → G = 9).</sub>
+<sub>Banner animation: a signal passing through a small neural network.</sub>
 
 </div>
