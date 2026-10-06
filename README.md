@@ -1,4 +1,4 @@
-<img src="./banner.svg" alt="Harshveer Singh - Computer Engineering, Thapar Institute" width="100%">
+<img src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/banner.svg?v=4" alt="Harshveer Singh - Computer Engineering, Thapar Institute" width="100%">
 
 **Computer Engineering student at Thapar Institute (2024–2028) · Full-stack developer · DSA enthusiast**
 
