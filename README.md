@@ -3,14 +3,14 @@
 <img src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/banner.svg?v=7" alt="Harshveer Singh - Full-stack developer exploring machine learning, Computer Engineering at Thapar Institute" width="100%">
 
 <a href="https://github.com/Singh1veer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;React+on+the+screen%2C+Python+behind+the+model;Exploring+machine+learning+through+real+projects;Open+to+internships+and+collaborations" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;React+on+the+screen%2C+Python+behind+the+model;Exploring+machine+learning+through+real+projects;Into+problem+solving+and+competitive+programming;Open+to+internships+and+collaborations" alt="Typing animation">
 </a>
 
 <br>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshveersingh212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singh1veer)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NIKOLA_20051)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshveer-singh-1905993b2/)
 
 </div>
 
