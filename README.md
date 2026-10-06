@@ -1,26 +1,81 @@
-<img src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/banner.svg?v=4" alt="Harshveer Singh - Computer Engineering, Thapar Institute" width="100%">
+<div align="center">
 
-**Computer Engineering student at Thapar Institute (2024–2028) · Full-stack developer · DSA enthusiast**
+<img src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/banner.svg?v=5" alt="Harshveer Singh - Full-stack developer and DSA enthusiast, Computer Engineering at Thapar Institute" width="100%">
 
-I like building things people actually use, from a faculty-review platform used by 800+ students to graph-based route planners.
+<a href="https://github.com/Singh1veer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;Dijkstra+on+a+map%2C+React+on+the+screen;450%2B+problems+solved+and+counting;Open+to+internships+and+collaborations" alt="Typing animation">
+</a>
 
----
+<br>
 
-### 🚀 What I'm building
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshveersingh212@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NIKOLA_20051)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singh1veer)
+![Profile views](https://komarev.com/ghpvc/?username=Singh1veer&style=for-the-badge&color=5eead4&label=PROFILE+VIEWS)
 
-**Faculty Metrics** — a full-stack faculty-review platform live across 604 faculty profiles
-- 800+ students reached, 340+ ratings submitted
-- Login-free, token-based review system: no signup friction, no duplicate submissions
-- Admin moderation dashboard, domain-restricted Google OAuth, 15+ REST APIs
-- Stack: `React` `Express` `PostgreSQL` `Supabase` `Vercel`
-
-**Travel Advisor** — multi-criteria route comparison using Dijkstra's algorithm
-- Near real-time shortest-path queries, built with a team of 3
-- Stack: `Node.js` `Express` `Bootstrap` `JavaScript`
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I've shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Faculty Metrics
+A faculty-review platform, live across **604 faculty profiles**.
+
+**800+** students reached · **340+** ratings · **15+** REST APIs
+
+Students review without signing up, and a token system blocks duplicate submissions. Admins get a moderation dashboard behind domain-restricted Google OAuth.
+
+`React` `Express` `PostgreSQL` `Supabase` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### Travel Advisor
+Multi-criteria route comparison, built with a team of 3.
+
+**Dijkstra's algorithm**, `O((V+E) log V)`, for near real-time shortest-path queries. Designed so new city nodes plug in without rewrites.
+
+`Node.js` `Express` `Bootstrap` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 How Faculty Metrics works (click to expand)</b></summary>
+
+<br>
+
+- **No login for students.** A token-based flow removes signup friction and still prevents duplicate reviews.
+- **Moderation built in.** Review queue, approve/reject, and suspension controls for admins.
+- **Locked-down admin.** Google OAuth restricted to the institute domain.
+- **Safe data layer.** 15+ REST APIs using parameterized SQL, deployed on Vercel + Supabase.
+- **Handoff-ready.** Documented so non-technical admins can run it.
+
+</details>
+
+<details>
+<summary><b>🧠 How Travel Advisor works (click to expand)</b></summary>
+
+<br>
+
+- Found a real need: comparing routes on more than one criterion.
+- Led requirements gathering and the end-to-end design for the team.
+- Dijkstra computes the shortest path dynamically, so queries feel instant.
+- Responsive Bootstrap UI on a Node.js/Express backend.
+
+</details>
+
+---
+
+## 🛠️ Tech stack
+
+<div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,12 +88,57 @@ I like building things people actually use, from a faculty-review platform used 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
-### 📫 Let's connect
+## 📊 Live stats
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshveersingh212@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NIKOLA_20051)
+<div align="center">
 
-💬 Ask me about: full-stack development, graph algorithms, DSA prep
-🤝 Open to: internships, collaborations and interesting projects
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Singh1veer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1222" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh1veer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1222" alt="Top languages">
+
+<img src="https://leetcard.jacoob.dev/NIKOLA_20051?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="600">
+
+</div>
+
+### 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎓 Education and certifications
+
+<details>
+<summary><b>Open the details</b></summary>
+
+<br>
+
+- **Thapar Institute of Engineering and Technology**, B.Tech in Computer Engineering, CGPA 8.62 (2024 to 2028)
+- Full-Stack Web Development Bootcamp (Udemy)
+- HackerRank: Frontend Development (React)
+- HackerRank: Problem Solving
+- JEE Main 2024: 95 percentile
+
+</details>
+
+---
+
+<div align="center">
+
+💬 **Ask me about:** full-stack development, graph algorithms, DSA prep
+🤝 **Open to:** internships, collaborations and interesting projects
+
+<sub>Banner animation: Dijkstra finds the shortest path from A to G (A → B → E → G = 9).</sub>
+
+</div>
