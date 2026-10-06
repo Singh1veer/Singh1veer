@@ -141,8 +141,6 @@ Currently building ML projects on top of my full-stack work. Coming soon.
 <div align="center">
 
 💬 **Ask me about:** full-stack development, machine learning, building products students use
-🤝 **Open to:** internships, collaborations and interesting projects
-
-<sub>Banner animation: a signal passing through a small neural network.</sub>
+🤝 **Open to:**collaborations and interesting projects
 
 </div>
