@@ -10,6 +10,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshveersingh212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singh1veer)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NIKOLA_20051)
 
 </div>
 
@@ -30,7 +31,8 @@ Students browse ratings and comments and submit ratings with zero friction: no s
 
 `React` `Express` `PostgreSQL` `Supabase` `Vercel`
 
-<!-- TODO: add [Live site](...) · [Code](...) here -->
+<!-- TODO: replace the links below with your real URLs, then delete this comment -->
+[Live site](PASTE-LIVE-SITE-LINK) · [Code](PASTE-REPO-LINK)
 
 </td>
 <td width="50%" valign="top">
@@ -42,7 +44,8 @@ Multi-criteria route comparison, built with a team of 3.
 
 `Node.js` `Express` `Bootstrap` `JavaScript`
 
-<!-- TODO: add [Code](...) here -->
+<!-- TODO: replace the link below with your real URL, then delete this comment -->
+[Code](PASTE-REPO-LINK)
 
 </td>
 </tr>
@@ -78,16 +81,17 @@ Multi-criteria route comparison, built with a team of 3.
 
 ## 🤖 Machine learning
 
-<!--
-TODO: add your ML projects here once they are ready. Template:
+### Flash Flood Prediction
+End-to-end ML pipeline predicting flash-flood risk from rainfall, humidity, and temperature data across **2,200 historical records**.
 
-### Project name
-One line on the problem and the result (a real metric, e.g. accuracy / F1 / RMSE).
-`Python` `scikit-learn` `Pandas` ...
-[Code](link) · [Demo](link)
--->
+**94.3%** accuracy · **0.74** F1-score · XGBoost was the top model
 
-Currently building ML projects on top of my full-stack work. Coming soon.
+Compared Logistic Regression, Random Forest, and XGBoost, then added a risk layer that turns predictions into **Low / Medium / High** categories with a probability score.
+
+`Python` `Pandas` `scikit-learn` `XGBoost`
+
+<!-- TODO: replace the link below with your real URL, then delete this comment -->
+[Code](PASTE-REPO-LINK)
 
 ---
 
@@ -104,6 +108,8 @@ Currently building ML projects on top of my full-stack work. Coming soon.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -121,14 +127,16 @@ Currently building ML projects on top of my full-stack work. Coming soon.
 
 ---
 
-## 🎓 Education and certifications
+## 🎓 Education, achievements and certifications
 
 <details>
 <summary><b>Open the details</b></summary>
 
 <br>
 
-- **Thapar Institute of Engineering and Technology**, B.Tech in Computer Engineering (2024 to 2028)
+- **Thapar Institute of Engineering and Technology**, B.Tech in Computer Engineering (2024 to 2028), CGPA 8.62
+- Solved 450+ problems on LeetCode and GeeksforGeeks (DSA, Trees, Graphs, Greedy)
+- JEE Main 2024: 95 percentile
 - Full-Stack Web Development Bootcamp (Udemy)
 - HackerRank: Frontend Development (React)
 - HackerRank: Problem Solving
@@ -136,6 +144,7 @@ Currently building ML projects on top of my full-stack work. Coming soon.
 </details>
 
 ---
+
 <div align="center">
 
 💬 **Ask me about:** full-stack development, machine learning, building products students use
