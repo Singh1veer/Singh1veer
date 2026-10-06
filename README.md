@@ -94,11 +94,6 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 
 `Python` `Pandas` `scikit-learn` `XGBoost`
 
-<!-- TODO: replace the link below with your real URL, then delete this comment -->
-[Code](PASTE-REPO-LINK)
-
----
-
 ## 🛠️ Tech stack
 
 <div align="center">
@@ -138,9 +133,7 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 
 <br>
 
-- **Thapar Institute of Engineering and Technology**, B.Tech in Computer Engineering (2024 to 2028), CGPA 8.62
-- Solved 450+ problems on LeetCode and GeeksforGeeks (DSA, Trees, Graphs, Greedy)
-- JEE Main 2024: 95 percentile
+- **Thapar Institute of Engineering and Technology**
 - Full-Stack Web Development Bootcamp (Udemy)
 - HackerRank: Frontend Development (React)
 - HackerRank: Problem Solving
