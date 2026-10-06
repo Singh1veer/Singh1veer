@@ -126,7 +126,7 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 
 ---
 
-## 🎓 Education, achievements and certifications
+## 🎓 Education and certifications
 
 <details>
 <summary><b>Open the details</b></summary>
