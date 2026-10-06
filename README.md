@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/banner.svg?v=7" alt="Harshveer Singh - Full-stack developer exploring machine learning, Computer Engineering at Thapar Institute" width="100%">
 
 <a href="https://github.com/Singh1veer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;React+on+the+screen%2C+Python+behind+the+model;Exploring+machine+learning+through+real+projects;Open+to+internships+and+collaborations" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;React+on+the+screen%2C+Python+behind+the+model;Exploring+machine+learning+through+real+projects;Open+to+collaborations+and+interesting+projects" alt="Typing animation">
 </a>
 
 <br>
@@ -153,6 +153,6 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 
 💬 **Ask me about:** full-stack development, machine learning, building products students use
 
-🤝 **Open to:** internships, collaborations, and projects worth building
+🤝 **Open to:** collaborations and projects worth building
 
 </div>
