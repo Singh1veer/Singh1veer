@@ -285,9 +285,7 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 
 <br>
 
-- **Thapar Institute of Engineering and Technology**, B.Tech in Computer Engineering (2024 to 2028), CGPA 8.62
-- Solved 450+ problems on LeetCode and GeeksforGeeks (DSA, Trees, Graphs, Greedy)
-- JEE Main 2024: 95 percentile
+- **Thapar Institute of Engineering and Technology**
 - Full-Stack Web Development Bootcamp (Udemy)
 - HackerRank: Frontend Development (React)
 - HackerRank: Problem Solving
@@ -297,12 +295,6 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 ---
 
 <div align="center">
-
-💬 **Ask me about:** full-stack development, machine learning, building products students use
-
-🤝 **Open to:** collaborations and interesting projects
-
-</div>enter">
 
 💬 **Ask me about:** full-stack development, machine learning, building products students use
 
