@@ -28,7 +28,7 @@ A faculty-review platform, live across **604 faculty profiles**.
 
 **800+** students reached · **340+** ratings · **15+** REST APIs
 
-Students browse ratings and comments and post their own reviews with no signup and no college email verification. A token system blocks duplicate submissions. Only admins log in, through a moderation dashboard behind domain-restricted Google OAuth.
+Students browse ratings and comments and submit ratings with zero friction: no signup, no password. Posting a comment needs email verification, which keeps comments accountable. A token system blocks duplicate submissions, and admins moderate through a dashboard behind domain-restricted Google OAuth.
 
 `React` `Express` `PostgreSQL` `Supabase` `Vercel`
 
@@ -51,9 +51,10 @@ Multi-criteria route comparison, built with a team of 3.
 
 <br>
 
-- **Zero friction for students.** Anyone can read ratings and comments and leave a review. There is no account and no college email ID verification, and a token-based flow still prevents duplicate reviews.
+- **Zero friction to browse and rate.** Anyone can read ratings and comments and submit a rating with no account. A token-based flow prevents duplicate reviews.
+- **Email verification for comments.** Students verify their email before posting a comment, so discussions stay accountable without a full signup.
 - **Moderation built in.** Review queue, approve/reject, and suspension controls for admins.
-- **Authentication only where it matters.** Students never log in. Admin access is the only protected area, using Google OAuth restricted to the institute domain.
+- **Authentication only where it matters.** Email verification guards comments, and admin access uses Google OAuth restricted to the institute domain.
 - **Safe data layer.** 15+ REST APIs using parameterized SQL, deployed on Vercel + Supabase.
 - **Handoff-ready.** Documented so non-technical admins can run it.
 
@@ -92,28 +93,12 @@ Multi-criteria route comparison, built with a team of 3.
 
 ---
 
-## 📊 Live stats
+## 📊 GitHub stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Singh1veer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1222" alt="GitHub stats">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh1veer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1222" alt="Top languages">
-
-<img src="https://leetcard.jacoob.dev/NIKOLA_20051?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="600">
-
-**382 solved on LeetCode** (C++) · 100 Days Badge 2026 · strong in DP, backtracking and Union-Find
-
-</div>
-
-### 🐍 Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake.svg">
-</picture>
 
 </div>
 
