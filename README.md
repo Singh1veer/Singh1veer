@@ -136,10 +136,10 @@ Currently building ML projects on top of my full-stack work. Coming soon.
 </details>
 
 ---
-
 <div align="center">
 
 💬 **Ask me about:** full-stack development, machine learning, building products students use
-🤝 **Open to:**collaborations and interesting projects
+
+🤝 **Open to:** collaborations and interesting projects
 
 </div>
