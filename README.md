@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/banner.svg?v=5" alt="Harshveer Singh - Full-stack developer and DSA enthusiast, Computer Engineering at Thapar Institute" width="100%">
 
 <a href="https://github.com/Singh1veer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;Dijkstra+on+a+map%2C+React+on+the+screen;450%2B+problems+solved+and+counting;Open+to+internships+and+collaborations" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;Dijkstra+on+a+map%2C+React+on+the+screen;450%2B+problems+across+LeetCode+and+GFG;Open+to+internships+and+collaborations" alt="Typing animation">
 </a>
 
 <br>
@@ -28,7 +28,7 @@ A faculty-review platform, live across **604 faculty profiles**.
 
 **800+** students reached · **340+** ratings · **15+** REST APIs
 
-Students review without signing up, and a token system blocks duplicate submissions. Admins get a moderation dashboard behind domain-restricted Google OAuth.
+Students browse ratings and comments and post their own reviews with no signup and no college email verification. A token system blocks duplicate submissions. Only admins log in, through a moderation dashboard behind domain-restricted Google OAuth.
 
 `React` `Express` `PostgreSQL` `Supabase` `Vercel`
 
@@ -51,9 +51,9 @@ Multi-criteria route comparison, built with a team of 3.
 
 <br>
 
-- **No login for students.** A token-based flow removes signup friction and still prevents duplicate reviews.
+- **Zero friction for students.** Anyone can read ratings and comments and leave a review. There is no account and no college email ID verification, and a token-based flow still prevents duplicate reviews.
 - **Moderation built in.** Review queue, approve/reject, and suspension controls for admins.
-- **Locked-down admin.** Google OAuth restricted to the institute domain.
+- **Authentication only where it matters.** Students never log in. Admin access is the only protected area, using Google OAuth restricted to the institute domain.
 - **Safe data layer.** 15+ REST APIs using parameterized SQL, deployed on Vercel + Supabase.
 - **Handoff-ready.** Documented so non-technical admins can run it.
 
@@ -100,6 +100,8 @@ Multi-criteria route comparison, built with a team of 3.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh1veer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1222" alt="Top languages">
 
 <img src="https://leetcard.jacoob.dev/NIKOLA_20051?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="600">
+
+**382 solved on LeetCode** (C++) · 100 Days Badge 2026 · strong in DP, backtracking and Union-Find
 
 </div>
 
