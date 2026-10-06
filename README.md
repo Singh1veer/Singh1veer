@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/banner.svg?v=7" alt="Harshveer Singh - Full-stack developer exploring machine learning, Computer Engineering at Thapar Institute" width="100%">
 
 <a href="https://github.com/Singh1veer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;React+on+the+screen%2C+Python+behind+the+model;Exploring+machine+learning+through+real+projects;Into+problem+solving+and+competitive+programming;Open+to+internships+and+collaborations" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Shipping+full-stack+apps+students+actually+use;React+on+the+screen%2C+Python+behind+the+model;Exploring+machine+learning+through+real+projects;Open+to+internships+and+collaborations" alt="Typing animation">
 </a>
 
 <br>
@@ -94,6 +94,11 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 
 `Python` `Pandas` `scikit-learn` `XGBoost`
 
+<!-- TODO: replace the link below with your real URL, then delete this comment -->
+[Code](PASTE-REPO-LINK)
+
+---
+
 ## 🛠️ Tech stack
 
 <div align="center">
@@ -133,7 +138,9 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 
 <br>
 
-- **Thapar Institute of Engineering and Technology**
+- **Thapar Institute of Engineering and Technology**, B.Tech in Computer Engineering (2024 to 2028), CGPA 8.62
+- Solved 450+ problems on LeetCode and GeeksforGeeks (DSA, Trees, Graphs, Greedy)
+- JEE Main 2024: 95 percentile
 - Full-Stack Web Development Bootcamp (Udemy)
 - HackerRank: Frontend Development (React)
 - HackerRank: Problem Solving
@@ -146,6 +153,6 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 
 💬 **Ask me about:** full-stack development, machine learning, building products students use
 
-🤝 **Open to:** collaborations and interesting projects
+🤝 **Open to:** internships, collaborations, and projects worth building
 
 </div>
