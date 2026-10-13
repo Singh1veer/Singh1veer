@@ -32,7 +32,7 @@ Students browse ratings and comments and submit ratings with zero friction: no s
 `React` `Express` `PostgreSQL` `Supabase` `Vercel`
 
 <!-- TODO: replace the links below with your real URLs, then delete this comment -->
-[Live site](PASTE-LIVE-SITE-LINK) · [Code](PASTE-REPO-LINK)
+[Live site](https://facultymetrics.vercel.app/faculty) · [Code](https://github.com/Singh1veer/Faculty-Feedback)
 
 </td>
 <td width="50%" valign="top">
@@ -45,7 +45,7 @@ Multi-criteria route comparison, built with a team of 3.
 `Node.js` `Express` `Bootstrap` `JavaScript`
 
 <!-- TODO: replace the link below with your real URL, then delete this comment -->
-[Code](PASTE-REPO-LINK)
+[Code](https://github.com/Singh1veer/Travel-Advisor)
 
 </td>
 </tr>
