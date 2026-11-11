@@ -81,18 +81,20 @@ Multi-criteria route comparison, built with a team of 3.
 
 ## 🤖 Machine learning
 
-### Flash Flood Prediction
-An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity, and temperature data, so the result is something people can actually act on.
+### UniMail: Email Classification System
+An end-to-end NLP pipeline that sorts university emails into **10 categories** (Exams, Placements, Hackathons, Scholarships, Assignments and more), so students don't miss the announcements that matter.
 
-**The plan:**
+**The pipeline:**
 
-1. **Collect and clean** historical weather and flood records with Pandas.
-2. **Build features** from rainfall, humidity, and temperature.
-3. **Train and compare** Logistic Regression, Random Forest, and XGBoost.
-4. **Pick the best model** by comparing how each one performs on unseen data.
-5. **Turn predictions into risk levels:** a final layer converts model output into **Low / Medium / High** flood risk, along with a probability score.
+1. **Prepare data:** collect university email subjects and bodies, then manually verify the labels used for training.
+2. **Extract features:** combine subject and body, then apply **TF-IDF** with unigrams and bigrams.
+3. **Train and compare:** Multinomial Naive Bayes, Logistic Regression, and Linear SVM.
+4. **Evaluate properly:** stratified cross-validation, with the best model chosen by **macro F1-score**.
+5. **Ship it:** the winning pipeline is saved with Joblib and powers a **Streamlit** dashboard that connects to Gmail (read-only OAuth 2.0), classifies recent emails, lets you browse by category, and exports results to CSV.
 
-`Python` `Pandas` `scikit-learn` `XGBoost`
+`Python` `Pandas` `scikit-learn` `Streamlit` `Gmail API`
+
+[Code](https://github.com/Singh1veer/Email_Classification)
 
 ## 🛠️ Tech stack
 
@@ -109,6 +111,7 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -116,6 +119,15 @@ An end-to-end ML pipeline that predicts flash-flood risk from rainfall, humidity
 ---
 
 ## 📊 GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake.svg" width="100%">
+</picture>
+
+</div>
 
 <div align="center">
 
