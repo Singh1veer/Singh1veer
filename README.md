@@ -143,11 +143,6 @@ An end-to-end NLP pipeline that sorts university emails into **10 categories** (
 <br><br>
 
 <img height="180" src="https://streak-stats.demolab.com?user=Singh1veer&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak">
-<img height="180" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages per repo">
-
-<br><br>
-
-<img width="100%" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution activity overview">
 
 </div>
 
