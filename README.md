@@ -120,12 +120,8 @@ An end-to-end NLP pipeline that sorts university emails into **10 categories** (
 
 ## 📊 GitHub stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Singh1veer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1222&count_private=true" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh1veer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1222" alt="Top languages">
-
-</div>
+<img height="170" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats">
+<img height="170" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages">
 
 ---
 
