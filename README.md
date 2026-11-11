@@ -11,6 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshveersingh212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singh1veer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshveer-singh-1905993b2/)
+[![Views](https://komarev.com/ghpvc/?username=Singh1veer&color=5EEAD4&style=for-the-badge&labelColor=181717&label=VIEWS)](https://github.com/Singh1veer)
 
 </div>
 
@@ -100,19 +101,25 @@ An end-to-end NLP pipeline that sorts university emails into **10 categories** (
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
 </div>
 
@@ -122,8 +129,25 @@ An end-to-end NLP pipeline that sorts university emails into **10 categories** (
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats">
-<img height="170" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/output/github-snake-dark.svg" width="100%">
+</picture>
+
+<br><br>
+
+<img height="180" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats">
+<img height="180" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages">
+
+<br><br>
+
+<img height="180" src="https://streak-stats.demolab.com?user=Singh1veer&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak">
+<img height="180" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages per repo">
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/Singh1veer/Singh1veer/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution activity overview">
 
 </div>
 
